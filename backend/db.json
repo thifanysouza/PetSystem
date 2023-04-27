@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "cliente": "José",
+      "equipamento": "Eletrocardiografo",
+      "mes": "abril",
+      "responsavel": "Luis"
+    },
+    {
+      "id": 2,
+      "cliente": "Ana",
+      "equipamento": "RM",
+      "mes": "maio",
+      "responsavel": "Joana"
+    },
+    {
+      "id": 3,
+      "cliente": "Paula",
+      "equipamento": "Raio X",
+      "mes": "janeiro",
+      "responsavel": "Pedro"
+    }
+  ]
+}
